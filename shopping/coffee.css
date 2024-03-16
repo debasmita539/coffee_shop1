@@ -1,0 +1,66 @@
+
+div{
+   
+    display:table-cell;
+}
+.c-black{
+    color:antiquewhite;
+    background-color:black;
+}
+.c-xlrge{
+    font-size:24px !important;
+}
+.c-opcity-min{
+    opacity:0.75;
+}
+.c-top, .c-bottom {
+      
+        width: 100%;
+        background-color: #150c0c;
+        overflow: auto;
+    
+
+}
+
+.c-bar{
+    overflow:hidden;
+
+}div{
+    display:block;
+}
+body,html{
+    height:100%;
+    font-family:"Inconsolata",sans-serif;
+}
+html,body{
+    font-size:15px;
+    line-height:1.5;
+    
+}
+html{
+    -ms-text-size-adjust:100%;
+    -webkit-text-size-adjust: 100%;
+
+}
+*,*:before,*:after{
+    box-sizing:inherit;
+}
+.bgimg{
+    background-position: center;
+    background-size: cover;
+    background-image: url(helo.png);
+    min-height:75%;
+}
+.c-greyscale-min,.c-grayscale-min{
+    filter:  grayscale(20%);
+}
+.c-tooltip,.c-display-container{
+    position:relative;
+}
+article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{
+    display: block;
+}
+*,*:before,*:after{
+    box-sizing: inherit;
+}
+
